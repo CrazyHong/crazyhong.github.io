@@ -1,2 +1,0 @@
-# crazyhong.github.io
-blog
